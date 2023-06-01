@@ -1,0 +1,43 @@
+{
+  "version": "0.0.1",
+  "require": "nil",
+  "scripthub": {
+    "ExSer New (c00lkidds) *Contains btt*": "require(10868847330):pls('YourNameHere')",
+    "CR Meme antideath": "require(12599435703)('YourNameHere')",
+    "GK V.2": "require(13018473604).Grabknife('YourNameHere')",
+    "Grab knife V.3": "require(2829943043):Run('YourNameHere','i baked you a pie')",
+    "Sus Plane": "require(13265053386).SusPlane('YourNameHere')",
+    "Destructive Hammer": "require(8038037940).CLoad('YourNameHere')",
+    "Script Hub V.3": "require(5320879116).ScriptHubV3('YourNameHere')",
+    "Muppet's Gui": "require(13285820930).Load('YourNameHere')",
+    "Grab gun": "require(5146659840).Dark_Eccentric('Dark_Eccentric', 'YourNameHere')",
+    "Dark Dex": "require(3010581956):Fireplace('YourNameHere')",
+    "Hardcore A60": "require(13124039967).HardcoreA60('YourNameHere')",
+    "RoadRogue": "require(7473216460).load('YourNameHere')",
+    "Anime Hub": "require(12885531434).AnimeHubV3('YourNameHere')",
+    "Orange Justice": "require(12113571016).orange_justice('YourNameHere')",
+    "Survival Map": "require(13364239512).SurvivalHonor('YourNameHere')"
+  },
+  "whitelist": {
+    "Sarfi2000": "Sarfi2000",
+    "NotOrdinary_Misha": "NotOrdinary_Misha",
+    "IXPDarkness": "IXPDarkness",
+    "siteoihi": "siteoihi",
+    "forbiddenmeatpatty": "forbiddenmeatpatty"
+  },
+  "blacklist": {
+    "spamming :kick on me": "t7fg45",
+    "disabled bonehead retard kys": "Supermanpsk",
+    "disabled bonehead retard kill yourself": "trashhunam",
+    "Auf de heinen": "jaflkajdlalkja",
+    "I don't remember": "bd271020",
+    "'initiating serverlock' for once": "AdminDolphinOFFICIAL",
+    "hacker": "suadto",
+    "destroying servers": "simple222n",
+    "Go kys and stop using plexolo it is so shit we already cracked it": "AriaWontBeHere",
+    "Bro there are kids?": "OCboy3",
+    "bro...": "bloxalli",
+    "retarded af": "RAFPORT4",
+    "skid": "janzairusong"
+  }
+}
